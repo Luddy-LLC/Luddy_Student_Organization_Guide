@@ -1,0 +1,17 @@
+[book]
+title = "Luddy School of Informatics Student Org Handbook"
+description = "Reference guide for student organizations"
+authors = ["Office of Student Engagement and Success"]
+language = "en"
+
+[build]
+build-dir = "book"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+smart-punctuation = true
+git-repository-url = "https://github.com/Luddy-LLC/Luddy_Student_Organization_Guide"
+git-repository-icon = "fa-github"
+search.enable = true
+print.enable = true
