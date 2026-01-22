@@ -3,7 +3,9 @@
 Registering your student group as a University Student Organization (USO) with IU Bloomington’s Student Involvement office is not required. However, registering your student group does have a variety of benefits, including the ability to apply for university funding. For more information on how to register your student group as a USO and a complete list of benefits to registering, see [here](https://studentlife.indiana.edu/involvement-belonging/student-involvement-leadership/student-organizations/create/index.html)
  
 
-### The requirements for initially registering as an USO are as follows[^note]: 
+### The requirements for initially registering as an USO are as follows:
+> [!CAUTION]
+> Once your organization meets all the above requirements, [contact Tiana Iruoje or Courtland Crenshaw](contact.md) to approve and complete the USO registration form. 
 #### Register on BeINvolved 
   - BeINvolved is an online service that allows student groups/organizations to maintain a profile that is easily accessible by the Indiana University network. Here, your organization can post events and information as well as utilize discussion boards and group messaging. This resource also allows you to showcase what you are doing as an organization by posting your activities, campus involvement, collaborations, etc. beINvolved also organizes events, organizations, and articles for other groups to view and attend on campus. 
   - Tutorials on navigating beINvolved can be found [here](https://engagesupport.campuslabs.com/hc/en-us/articles/360016011492- Student-Leader-Resource-Guide)  
@@ -33,6 +35,3 @@ Registering your student group as a University Student Organization (USO) with I
 - [Students of Music Librarianship Group Constitution (2019)](https://hdl.handle.net/10333/11516)  
 - [Constitution of the American Library Association Student Chapter (n.d.)](https://hdl.handle.net/10333/10976)  
 - [Society of Art Librarianship Students Constitution (n.d.)](https://hdl.handle.net/10333/11479)  
-
-
- [^note]Once your organization meets all the above requirements, [contact Tiana Iruoje or Courtland Crenshaw](contact.md) to approve and complete the USO registration form. 
