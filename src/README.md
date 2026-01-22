@@ -1,4 +1,4 @@
 # Luddy School of Informatics Student Org Handbook 
 *Office of Student Engagement and Success Last Updated August 2025*
 
-#### Please read through this thoroughly as it contains departmental requirements for every student group/organization as well as helpful suggestions for all group/organization executive members. Please note that all URLs are current as of August 2025. If you find that a link is broken, please report it to the office of Student Engagement and Success or email (lsg@iu.edu)
+#### Please read through this thoroughly as it contains departmental requirements for every student group/organization as well as helpful suggestions for all group/organization executive members. Please note that all URLs are current as of August 2025. If you find that a link is broken, please report it to the office of Student Engagement and Success or email [Email](mailto:lsg@iu.edu)
