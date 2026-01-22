@@ -17,9 +17,9 @@
 - [Annual To-Do’s](annual-todos.md)
 - [Maintaining Documentation](documentation.md)
 - [Joining the Student Org Teams](student-org-teams.md)
-- [Creating an Organization Email](organizational-email.md
+- [Creating an Organization Email](organizational-email.md)
 - [Elections](elections.md)
-- [Updating beINvolved and Member Roaster](beInvolved-and-roster.md)
+- [Updating beINvolved and Member Roster](beInvolved-and-roster.md)
 - [Establishing Internal Communication](internal-comm.md)
 - [Using IU Technologies](IU-tech.md)
 
