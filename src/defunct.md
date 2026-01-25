@@ -1,1 +1,0 @@
-# Reviving a Defunct Student Group

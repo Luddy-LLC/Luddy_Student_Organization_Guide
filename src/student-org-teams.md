@@ -1,6 +1,2 @@
 # Joining the Student Org Teams
-The Student Org Teams is a place where leadership from all Luddy student groups can
-communicate with the Office of Student Engagement. It is also a place where the
-announcements and updates concerning your student org will be posted. You can also
-use it to collaborate on events, meetings, and other activities. It is highly recommended
-that all board members of a Luddy student organization [join the Teams](https://teams.microsoft.com/l/team/19%253AORnylkPlaSvHDLRE0kxJaEZh3Z7Ub0PTwawdAkjYCq81%2540thread.tacv2/conversations?groupId=a30befdd-994c-4af6-aa97-e8d502ec1287&tenantId=1113be34-aed1-4d00-ab4b-cdd02510be91).
+The Student Org Teams is a place where leadership from all Luddy student groups can communicate with the Office of Student Engagement. It is also a place where the announcements and updates concerning your student org will be posted. You can also use it to collaborate on events, meetings, and other activities. It is highly recommended that all board members of a Luddy student organization [join the Teams](https://teams.microsoft.com/l/team/19%253AORnylkPlaSvHDLRE0kxJaEZh3Z7Ub0PTwawdAkjYCq81%2540thread.tacv2/conversations?groupId=a30befdd-994c-4af6-aa97-e8d502ec1287&tenantId=1113be34-aed1-4d00-ab4b-cdd02510be91).

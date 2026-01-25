@@ -1,1 +1,0 @@
-# Applying for Student Organization Awards 
